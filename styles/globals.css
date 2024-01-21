@@ -21,3 +21,16 @@ a {
 #__next {
   height: 100%;
 }
+
+.container-notfound {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.title-notfound {
+  color: darkgray;
+  /* text-align: center; */
+}
